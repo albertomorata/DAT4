@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+   	<link rel="stylesheet" type="text/css" href="css-ejercicio10.css" title="style" />
+	<title>Ejercicio 5.1.9</title>
+</head>
+
+<body>
+       <div id="contenedor"> 
+                <div id="cabecera">
+                        <a href="#">GSyC</a> Oficial Website
+                </div>
+
+                <div id="menu">
+                        <ul>
+                                <li><a href="#">Principal</a></li>
+                                <li><a href="#">URJC</a></li>
+                                <li><a href="#">GSyC</a></li>
+                                <li><a href="#">ETSIT</a></li>
+                                <li><a href="#">DAT</a></li>
+                        </ul>
+                </div>
+				<div id="contenido">
+						<div id="columna1">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+									sed do eiusmod tempor incididunt ut labore et dolore 
+									magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
+									ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis 
+									aute irure dolor in reprehenderit in voluptate velit esse cillum 
+									dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
+									non proident, sunt in culpa qui officia deserunt mollit anim id 
+									est laborum.
+								
+
+						</div>
+						<div id="columna2">
+								<ul>
+								<li></br></li>
+                                <li><a href="#">Uno</a></li>
+                                <li><a href="#">Dos</a></li>
+                                <li><a href="#">Tres</a></li>
+								<li></br></li>
+                        		</ul>
+						</div>
+				</div>
+                <div id="foot">
+                        (C) 2014 <a href="#">GSyC</a> - Universidad Rey Juan Carlos
+                </div>
+         </div>
+</body>
